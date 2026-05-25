@@ -6,7 +6,7 @@ Originally completed as the first project
 for the Computer Science II (CIS252) course 
 of sophomore year at community college
 Ever so slightly revised for upload to GitHub
-as a repo project - dated @ May 2026
+as a repo project -- May 2026
 ==============================================
 A self-running simulation of the classic card game, War, 
 in the Java JDK 21+. Concepts stressed include
