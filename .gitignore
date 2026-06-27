@@ -1,0 +1,11 @@
+# Build output
+bin/
+out/production/
+*.class
+.project
+.classpath
+
+# Project files
+.idea/
+.settings/
+*.iml
